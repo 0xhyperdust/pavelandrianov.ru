@@ -1,0 +1,14 @@
+{
+  "name": "pavelandrianov.ru",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Pavel Andrianov <mail@pavelandrianov.ru>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "parcel build src/index.html --out-dir public"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0"
+  }
+}
